@@ -1,0 +1,33 @@
+[
+    {
+      "brand": "Mercedes-Benzzz",
+      "model": "S-Class",
+      "price": "$100,000+",
+      "year": 2023
+    },
+    {
+      "brand": "BMW",
+      "model": "7 Series",
+      "price": "$90,000+",
+      "year": 2023
+    },
+    {
+      "brand": "Lexus",
+      "model": "LS",
+      "price": "$80,000+",
+      "year": 2023
+    },
+    {
+      "brand": "Audi",
+      "model": "A8",
+      "price": "$85,000+",
+      "year": 2023
+    },
+    {
+      "brand": "Jaguar",
+      "model": "XJ",
+      "price": "$95,000+",
+      "year": 2023
+    }
+  ]
+  
